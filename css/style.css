@@ -1,0 +1,252 @@
+body{
+
+	background: url(../imagens/marvel.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+h2{
+
+	color: white; 
+}
+
+
+p{
+
+color: white; 
+font-size: 10.5pt;
+margin-left: 500px;
+
+}
+
+
+/* =================Menu Do Site=================== */
+
+
+
+#menu{
+
+background-color: darkblue;
+color: white;
+padding-bottom: 10px;
+padding-top: 10px;
+margin-bottom: 150px;
+text-align: center;
+max-width: 100%;
+cursor: pointer;
+
+}
+
+
+#menu li{
+
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+
+#menu li:hover{
+	font-weight: bold;
+}
+
+
+#container-principal{
+
+width: 1100px;
+position: absolute;
+left: 50%;
+margin-top: -25px;
+margin-left: -540px;
+
+}
+
+
+
+/* ===================Bloco do Homem-Aranha==================== */
+
+
+#caixa-vermelha{
+
+	background-color: darkred;
+	width: 1000px;
+	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	text-align: justify;
+}
+
+
+#caixa-vermelha #ha:hover{
+
+color: blue;
+}
+
+
+#caixa-vermelha img{
+
+	width: 450px;
+	height: 350px;
+	border-radius: 20px;
+}
+
+#caixa-vermelha h2{
+
+	margin-top: -70px;
+	margin-bottom: 60px;
+	
+}
+
+
+
+
+/* ====================Bloco do Homem-de-Ferro====================  */
+
+#caixa-amarela{
+
+	background-color: #B4A206;
+	width: 1000px;
+	padding-bottom: 120px;
+    padding-top: 20px;
+    padding-right: 50px;
+	padding-left: 50px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	text-align: justify;
+}
+
+
+#caixa-amarela #ia{
+
+	color: darkblue;
+}
+
+#caixa-amarela #ia:hover{
+
+color: red;
+}
+
+
+
+#caixa-amarela img{
+
+	width: 450px;
+	height: 350px;
+	border-radius: 20px;
+}
+
+
+#caixa-amarela h2{
+
+	margin-top: -70px;
+	margin-bottom: 60px;
+	
+}
+
+
+
+
+/* ====================Bloco do Capitão-América====================  */
+
+
+#caixa-azul{
+
+	background-color: darkblue;
+	width: 1000px;
+	padding-top: 20px;
+	padding-bottom: 180px;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	text-align: justify;
+}
+
+
+#caixa-azul #ac{
+
+	color: red;
+}
+
+#caixa-azul #ac:hover{
+
+color: white;
+}
+
+
+#caixa-azul img{
+
+	width: 450px;
+	height: 390px;
+	border-radius: 20px;
+}
+
+
+#caixa-azul h2{
+
+	margin-top: -70px;
+	margin-bottom: 60px;
+	
+}
+
+
+
+
+
+/* ======================Bloco do Hulk=========================  */
+
+
+#caixa-verde{
+
+	background-color: green;
+	width: 1000px;
+	padding-top: 20px;
+	padding-bottom: 80px;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	text-align: justify;
+
+}
+
+
+#caixa-verde #hk{
+
+	color: white;
+}
+
+#caixa-verde #hk:hover{
+
+color: black;
+
+}
+
+
+#caixa-verde img{
+
+	width: 450px;
+	height: 290px;
+	border-radius: 20px;
+}
+
+#caixa-verde h2{
+
+	margin-top: -70px;
+	margin-bottom: 60px;
+	
+}
+
+
+.icons{
+	font-size: 54pt;
+	margin-left: 850px;
+}
+
